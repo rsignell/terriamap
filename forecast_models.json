@@ -11,21 +11,8 @@
           "isEnabled": true,
           "layers": "t2m",
           "colorScaleMinimum": 270.0,
-          "colorScaleMaximum": 300.0,
-          "styles": "default-scalar/x-Sst",
-          "parameters": {
-            "VERSION": "1.1.1"
-          }
-        },
-        {
-          "name": "NECOFS MassBay Model",
-          "type": "wms",
-          "url": "http://geoport.whoi.edu/ncWMS2/wms",
-          "isEnabled": true,
-          "layers": "FVCOM-NECOFS-MassBay/temp",
-          "colorScaleMinimum": 2.0,
-          "colorScaleMaximum": 15.0,
-          "styles": "default-scalar/x-Sst",
+          "colorScaleMaximum": 310.0,
+          "styles": "",
           "parameters": {
             "VERSION": "1.1.1"
           }
@@ -33,12 +20,6 @@
       ],
       "isOpen": true
     }
-  ],
-  "corsDomains": [
-    "whoi.edu",
-    "corsproxy.com",
-    "programs.communications.gov.au",
-    "www.asris.csiro.au"
   ],
   "homeCamera": {
     "west": -71.5,
