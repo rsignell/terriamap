@@ -5,13 +5,13 @@
       "type": "group",
       "items": [
         {
-          "name": "NECOFS GOM3 Model",
+          "name": "Earthmover GFS",
           "type": "wms",
-          "url": "http://geoport.whoi.edu/ncWMS2/wms",
+          "url": "https://compute.earthmover.io/v1/services/wms/earthmover-demos/gfs/main/solar/wms",
           "isEnabled": true,
-          "layers": "FVCOM-NECOFS-GOM3/temp",
-          "colorScaleMinimum": 2.0,
-          "colorScaleMaximum": 15.0,
+          "layers": "t2m",
+          "colorScaleMinimum": 270.0,
+          "colorScaleMaximum": 300.0,
           "styles": "default-scalar/x-Sst",
           "parameters": {
             "VERSION": "1.1.1"
