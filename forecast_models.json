@@ -23,10 +23,10 @@
     }
   ],
   "homeCamera": {
-    "west": -71.5,
-    "east": -65,
+    "west": -75.5,
+    "east": -60,
     "north": 45.0,
-    "south": 39.0
+    "south": 30.0
   },
   "baseMapName": "Bing Maps Roads",
   "initialViewerMode": "2d",
