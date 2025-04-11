@@ -13,8 +13,9 @@
           "colorScaleMinimum": 270.0,
           "colorScaleMaximum": 310.0,
           "styles": "",
+          "crs": "EPSG:3847",
           "parameters": {
-            "VERSION": "1.1.1"
+            "VERSION": "1.3.0"
           }
         }
       ],
