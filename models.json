@@ -21,7 +21,7 @@
       {
           "name": "Xpublish GOMFS",
           "type": "wms",
-          "url": "https://nextgen-dev.ioos.us/xreds/datasets/gomofs/wms/?service=WMS",
+          "url": "https://nextgen-dev.ioos.us/xreds/datasets/gomofs/wms",
           "isEnabled": true,
           "layers": "temp",
           "colorScaleMinimum": 3,
