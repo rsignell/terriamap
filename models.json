@@ -20,6 +20,23 @@
         }
       ],
       "isOpen": true
+    }, 
+      {
+          "name": "Xpublish GOMFS",
+          "type": "wms",
+          "url": "https://nextgen-dev.ioos.us/xreds/datasets/gomofs/wms/?service=WMS",
+          "isEnabled": true,
+          "layers": "temp",
+          "colorScaleMinimum": 3,
+          "colorScaleMaximum": 15,
+          "styles": "raster/default",
+          "crs": "EPSG:3857",
+          "parameters": {
+            "VERSION": "1.3.0"
+          }
+        }
+      ],
+      "isOpen": true
     }
   ],
   "homeCamera": {
