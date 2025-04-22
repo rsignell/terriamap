@@ -17,10 +17,7 @@
           "parameters": {
             "VERSION": "1.3.0"
           }
-        }
-      ],
-      "isOpen": true
-    }, 
+        },
       {
           "name": "Xpublish GOMFS",
           "type": "wms",
